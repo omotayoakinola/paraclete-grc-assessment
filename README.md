@@ -1,8 +1,7 @@
 # Verdant Pay Limited — Cyber Risk Assessment
 
-A complete, independently designed GRC engagement for a fictional 
-Lagos-based fintech. Built from first principles to demonstrate 
-what professional risk assessment looks like end to end.
+An end-to-end cyber risk assessment designed for a fictional Lagos-based fintech, covering everything from scope 
+definition through to a prioritized risk register with treatment plans.
 
 ---
 
