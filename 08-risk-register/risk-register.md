@@ -27,18 +27,13 @@ planned Series B fundraising round.
 
 ## Note on Risk Ownership
 
-Risk ownership in this register follows RACI principles. One person 
-is Accountable, meaning ultimately answerable to the board if the risk 
-materializes. Others may be Responsible for executing specific treatment 
-actions within their function. The question used to determine the 
-Accountable owner for each risk was: who would the board hold ultimately 
-answerable if this risk materialized?
+Risk ownership in this register follows RACI principles. 
 
 ## Note on Residual Risk and Risk Appetite
 
 The residual risk scores presented in this register reflect Verdant 
 Pay's current risk exposure with existing controls in place. They are 
-presented honestly to establish the baseline from which remediation 
+presented to establish the baseline from which remediation 
 must start and are not presented as an acceptable risk position. The 
 target residual risk after treatment represents the intended risk 
 position after all treatment plans are fully implemented. This is the 
