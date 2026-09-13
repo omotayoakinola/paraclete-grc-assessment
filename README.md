@@ -1,22 +1,32 @@
 # Verdant Pay Limited — Cyber Risk Assessment
 
 An end-to-end cyber risk assessment designed for a fictional Lagos-based fintech, covering everything from scope 
-definition through to a prioritized risk register with treatment plans.
+definition through to a prioritized risk register with treatment plans under Nigerian regulatory conditions.
 
 ---
 
-## The Context
+## The Organization
 
-Verdant Pay is a fictional cloud-native payment service provider 
-licensed by the Central Bank of Nigeria, serving 340,000 active 
-users and processing NGN 2.1 billion monthly. In Q1 2026, three 
-compliance concerns were flagged internally: former staff accounts 
-remaining active after offboarding, SharePoint permissions expanding 
-beyond intended boundaries, and no formal data classification policy 
-in place.
+Verdant Pay Limited is a fictional cloud-native fintech operating a 
+digital payments platform for peer-to-peer transfers, bill payments, 
+and merchant collections across Nigeria. It holds a Payment Service 
+Solution Provider licence issued by the Central Bank of Nigeria and 
+serves approximately 340,000 active users processing NGN 2.1 billion 
+in monthly transactions.
 
-The board authorized a full cyber risk assessment ahead of a Series B 
-fundraising round and a CBN regulatory examination in Q4 2026.
+In Q1 2026, Verdant Pay's compliance team flagged three concerns 
+during a routine internal review:
+
+- Former staff accounts remained active in the M365 environment 
+  weeks after offboarding
+- SharePoint permissions had expanded beyond originally intended 
+  boundaries
+- No formal data classification policy existed to govern how 
+  sensitive customer financial data was being handled internally
+
+These findings triggered a board-authorized cyber risk assessment 
+ahead of a planned Series B fundraising round and a CBN regulatory 
+examination expected in Q4 2026.
 
 ---
 
@@ -29,76 +39,75 @@ Four scope areas across Verdant Pay's cloud environment:
 - Cybersecurity Awareness and Human Risk
 - Governance and Policy Posture
 
+Physical infrastructure, on-premises hardware, and consumer-facing 
+application security were explicitly excluded with documented 
+justification.
+
 ---
 
-## How It Was Done
+## Methodology
 
 Eight stages, each building directly on the last:
 
-1. Scope definition
-2. Stakeholder identification and engagement
-3. Information gathering and current state assessment
-4. Threat and vulnerability identification
-5. Inherent risk assessment
-6. Existing control assessment
-7. Residual risk assessment
-8. Risk register with treatment plans
+| Stage | Description |
+|---|---|
+| 1 | Scope definition and boundary setting |
+| 2 | Stakeholder identification and engagement planning |
+| 3 | Information gathering and current state assessment |
+| 4 | Threat and vulnerability identification |
+| 5 | Inherent risk assessment using likelihood and impact |
+| 6 | Existing control effectiveness assessment |
+| 7 | Residual risk assessment |
+| 8 | Risk register with treatment plans and recommendations |
 
-Full methodology: [docs/methodology.md](docs/methodology.md)
+Full methodology detail: [docs/methodology.md](docs/methodology.md)
 
 ---
 
-## What Was Found
+## Key Findings
 
-**19 controls assessed. 0 rated strong.**
+### Control Environment
 
-| Rating | Count |
-|---|---|
-| Strong | 0 |
-| Moderate | 1 |
-| Weak | 8 |
-| Absent | 9 |
+Nineteen controls were assessed across all four scope areas.
 
-**19 risks identified. All rated critical before controls.**
+| Maturity Rating | Count | Percentage |
+|---|---|---|
+| Strong | 0 | 0% |
+| Moderate | 1 | 5% |
+| Weak | 8 | 42% |
+| Absent | 9 | 47% |
+| Unconfirmed | 1 | 5% |
 
-| | Critical | High | Medium | Low |
+Not one control across all four scope areas was operating at full 
+design effectiveness. Nine control categories did not exist at all.
+
+### Risk Profile
+
+| Stage | Critical | High | Medium | Low |
 |---|---|---|---|---|
 | Inherent Risk | 19 | 0 | 0 | 0 |
 | Residual Risk | 16 | 3 | 0 | 0 |
-| After Treatment | 0 | 2 | 13 | 4 |
+| Target After Treatment | 0 | 2 | 13 | 4 |
 
-Full implementation of all 19 treatment plans would reduce 
-Verdant Pay's risk profile from 19 critical risks to reduced to an acceptable level.
+Every identified risk rated critical before controls were considered. 
+Sixteen remained critical after existing controls were applied, 
+reflecting the minimal protective value of a control environment 
+where no control reached high or moderate effectiveness.
+
+Full implementation of all nineteen treatment plans would reduce 
+Verdant Pay's risk profile from nineteen critical risks to an 
+acceptable level.
 
 ---
 
 ## Regulatory Frameworks Applied
 
-- CBN Cybersecurity Framework for Payment Service Providers
-- Nigeria Data Protection Act 2023 (NDPA 2023)
-- PCI-DSS
+| Framework | Application |
+|---|---|
+| CBN Cybersecurity Framework for Payment Service Providers | Examination readiness assessment, governance posture evaluation, remediation prioritization |
+| Nigeria Data Protection Act 2023 (NDPA 2023) | Customer data classification, breach notification requirements, regulatory exposure assessment |
+| PCI-DSS | Customer financial data protection, encryption requirements, access control standards |
 
 ---
 
-## What This Demonstrates
-
-The ability to run a complete GRC engagement independently, from 
-scoping and stakeholder identification through to a prioritized 
-risk register with actionable treatment plans, under real Nigerian 
-regulatory conditions, with every finding traceable to evidence.
-
----
-
-## Note
-
-Verdant Pay is a fictional organization. No real data, organization, 
-or individuals are referenced. All findings are simulated based on 
-plausible scenarios consistent with the Nigerian fintech regulatory 
-environment.
-
----
-
-Built independently as part of GRC Engineering training at ICDFA, 
-Lagos, Nigeria.
-
-[LinkedIn](https://linkedin.com/in/omotayo-akinola)
+## Repository Structure
