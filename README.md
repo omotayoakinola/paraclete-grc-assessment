@@ -109,5 +109,3 @@ acceptable level.
 | PCI-DSS | Customer financial data protection, encryption requirements, access control standards |
 
 ---
-
-## Repository Structure
