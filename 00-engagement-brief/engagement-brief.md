@@ -48,4 +48,4 @@ The Senior Product Operations Manager represents how business teams interact wit
 
 ## Assessment Objective
 
-The objective of this engagement is to produce a structured, evidence-based cyber risk register that reflects Verdant Pay's actual risk exposure across the four scope areas, supports prioritized remediation planning, and provides a credible governance artifact ahead of both the Series B process and the CBN examination.
+The objective of this engagement is to produce a structured, evidence-based cyber risk register that reflects Paraclete's actual risk exposure across the four scope areas, supports prioritized remediation planning, and provides a credible governance artifact ahead of both the Series B process and the CBN examination.
