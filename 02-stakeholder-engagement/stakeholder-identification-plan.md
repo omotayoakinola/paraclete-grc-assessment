@@ -5,7 +5,7 @@
 ## Purpose
 
 This document identifies the key stakeholders relevant to the cyber 
-risk assessment at ParacletE and outlines the specific 
+risk assessment at Paraclete and outlines the specific 
 information required from each. The stakeholder engagement process 
 is structured around the four defined scope areas: identity and access 
 management, customer data handling, cybersecurity awareness and human 
