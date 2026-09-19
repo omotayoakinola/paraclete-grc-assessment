@@ -1,14 +1,14 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 3, Part 2: Stakeholder Interview Plan
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This document outlines the structured stakeholder interview plan for 
-the Verdant Pay cyber risk assessment. While Part 1 identified the 
+the Paraclete cyber risk assessment. While Part 1 identified the 
 documentation required from each stakeholder, this plan addresses 
 what documentation alone cannot answer: the actual operational reality 
-of how processes work at Verdant Pay, where handoffs break down, how 
+of how processes work at Paraclete, where handoffs break down, how 
 quickly incidents are responded to, and how confident key personnel 
 are in the organization's current security and compliance posture.
 
@@ -45,11 +45,11 @@ following that session.
 ### 1. Head of IT Infrastructure
 
 This interview focuses on the technical reality of identity and access 
-management at Verdant Pay, specifically around the provisioning and 
+management at Paraclete, specifically around the provisioning and 
 deprovisioning of staff access and the communication process between 
 IT and People Operations.
 
-- When an employee leaves Verdant Pay, at what point do you revoke 
+- When an employee leaves Paraclete, at what point do you revoke 
   their privileged access and how quickly does that happen?
 - When a new employee is onboarded, how many days or hours does it 
   take to grant them the access they need to do their job?
@@ -123,9 +123,9 @@ examination readiness ahead of the Q4 2026 CBN examination. The CCO
 holds intelligence about open findings and unresolved gaps that no 
 formal document will fully capture.
 
-- How confident are you personally that Verdant Pay's current 
-  policies would satisfy a CBN examiner who walked in tomorrow, 
-  and which policy area concerns you most?
+- How confident are you personally that Paraclete's current policies 
+  would satisfy a CBN examiner who walked in tomorrow, and which 
+  policy area concerns you most?
 - Are there any findings from the last CBN examination that have 
   not been fully closed yet?
 - If you could fix one governance gap before Q4 2026, what would 
@@ -143,8 +143,8 @@ decisions that formal security documentation will not fully reflect.
 
 - Of the controls currently in place across all four scope areas, 
   which ones are you least confident are operating effectively?
-- If a CBN examiner walked in tomorrow, which area of your security 
-  posture would you be most concerned about?
+- If a CBN examiner walked in tomorrow, which area of Paraclete's 
+  security posture would you be most concerned about?
 
 ---
 
@@ -179,5 +179,5 @@ interview log capturing:
   and what existing documentation states
 
 Variances between documented procedure and actual practice will be 
-flagged immediately as potential risk findings and carried forward 
+flagged as potential risk findings and carried forward 
 into the current state assessment report at the conclusion of Stage 3.
