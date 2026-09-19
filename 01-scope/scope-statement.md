@@ -32,7 +32,7 @@ data classification, incident response, and third-party risk management.
 
 Physical infrastructure, on-premises hardware, and consumer-facing 
 application security fall outside the current scope of this engagement 
-because Verdant Pay is a cloud-native organization that does not operate 
+because Paraclete is a cloud-native organization that does not operate 
 significant on-premises infrastructure, and consumer-facing application 
 security is a separate discipline requiring a different assessment type 
 outside this engagement's mandate.
