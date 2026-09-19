@@ -1,16 +1,16 @@
-# Verdant Pay Limited
+# Paraclete Limited
 ## Engagement Brief
 **Confidential | Internal Use Only**
 
 ## Client Overview
 
-Verdant Pay Limited is a Lagos-based fintech company operating a cloud-native digital payments platform that enables peer-to-peer transfers, bill payments, and merchant collections across Nigeria. Founded in 2019, the company has grown to approximately 120 staff across product, engineering, operations, compliance, and customer support functions. Its customer base stands at roughly 340,000 active users, with transaction volumes averaging NGN 2.1 billion monthly.
+Paraclete Limited is a Lagos-based fintech company operating a cloud-native digital payments platform that enables peer-to-peer transfers, bill payments, and merchant collections across Nigeria. Founded in 2019, the company has grown to approximately 120 staff across product, engineering, operations, compliance, and customer support functions. Its customer base stands at roughly 340,000 active users, with transaction volumes averaging NGN 2.1 billion monthly.
 
-Verdant Pay operates entirely on cloud infrastructure, primarily Microsoft Azure for core workloads and Microsoft 365 for internal collaboration, communication, and document management. It holds a Payment Service Solution Provider (PSSP) licence issued by the Central Bank of Nigeria (CBN) and is therefore subject to the CBN Cybersecurity Framework for Payment Service Providers, the Nigeria Data Protection Act 2023 (NDPA), and PCI-DSS requirements relevant to card transaction handling.
+Paraclete operates entirely on cloud infrastructure, primarily Microsoft Azure for core workloads and Microsoft 365 for internal collaboration, communication, and document management. It holds a Payment Service Solution Provider (PSSP) licence issued by the Central Bank of Nigeria (CBN) and is therefore subject to the CBN Cybersecurity Framework for Payment Service Providers, the Nigeria Data Protection Act 2023 (NDPA), and PCI-DSS requirements relevant to card transaction handling.
 
 ## Engagement Context
 
-In Q1 2026, Verdant Pay's compliance team flagged three concerns during a routine internal review: several former staff accounts remained active in the M365 environment weeks after offboarding, cloud storage permissions on SharePoint had expanded beyond originally intended boundaries, and no formal data classification policy existed to govern how sensitive customer financial data was being handled internally.
+In Q1 2026, Paraclete's compliance team flagged three concerns during a routine internal review: several former staff accounts remained active in the M365 environment weeks after offboarding, cloud storage permissions on SharePoint had expanded beyond originally intended boundaries, and no formal data classification policy existed to govern how sensitive customer financial data was being handled internally.
 
 These findings were escalated to the board, which authorized an internal cyber risk assessment to establish a clear picture of the organization's current risk posture ahead of a planned Series B fundraising round and a CBN regulatory examination expected in Q4 2026. The assessment is being conducted by the internal GRC team.
 
@@ -38,11 +38,11 @@ The Cloud Administrator is responsible for managing cloud platform configuration
 
 The Head of People Operations is responsible for staff onboarding, offboarding, HR data management, training administration, and policy acknowledgment records. They own the employee lifecycle process that directly connects to identity and access management, cybersecurity awareness, and governance posture.
 
-The Data Protection Officer is responsible for ensuring Verdant Pay's handling of customer personal data complies with the Nigeria Data Protection Act 2023 and related obligations. They hold regulatory correspondence, breach notification history, consent mechanisms, and data classification policy.
+The Data Protection Officer is responsible for ensuring Paraclete's handling of customer personal data complies with the Nigeria Data Protection Act 2023 and related obligations. They hold regulatory correspondence, breach notification history, consent mechanisms, and data classification policy.
 
 The Chief Compliance Officer owns the regulatory relationship with CBN, oversees internal policy currency and review cycles, and holds examination history including prior findings and open remediation commitments. They are the primary stakeholder for governance and policy posture and examination readiness.
 
-The Chief Information Security Officer owns Verdant Pay's overall security strategy, control design decisions, risk tolerance, and incident response capability. They hold visibility into known security gaps, control effectiveness across all four scope areas, and the organization's defined risk appetite.
+The Chief Information Security Officer owns Paraclete's overall security strategy, control design decisions, risk tolerance, and incident response capability. They hold visibility into known security gaps, control effectiveness across all four scope areas, and the organization's defined risk appetite.
 
 The Senior Product Operations Manager represents how business teams interact with internal systems day to day. They hold ground-truth visibility into operational reality including workarounds, informal practices, and shadow IT that no policy document, configuration review, or technical scan would surface.
 
