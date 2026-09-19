@@ -1,11 +1,11 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 3, Part 1: Documentation Request Plan
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This document outlines the structured documentation request plan for 
-the Verdant Pay cyber risk assessment. It identifies the specific 
+the Paraclete cyber risk assessment. It identifies the specific 
 evidence required from each of the seven stakeholders across the four 
 defined scope areas. Every request is justified by either a scope area 
 requirement, a flagged incident from Q1 2026, or a regulatory obligation 
@@ -86,7 +86,7 @@ of any open remediation commitments from that examination showing what
 has been addressed and what remains outstanding. Current internal 
 assessment of examination readiness for Q4 2026. Any regulatory 
 correspondence received from CBN since the last examination. Internal 
-and external compliance frameworks currently in operation at Verdant Pay.
+and external compliance frameworks currently in operation at Paraclete.
 
 ---
 
