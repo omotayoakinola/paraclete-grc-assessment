@@ -1,10 +1,10 @@
-# Verdant Pay Limited
+# Paraclete
 ## Scope Statement
 **Confidential | Internal Use Only**
 
 ## Purpose and Context
 
-The purpose of this assessment is to strengthen Verdant Pay's security 
+The purpose of this assessment is to strengthen Paraclete's security 
 posture and ensure compliance readiness ahead of the planned Series B 
 fundraising round and the CBN regulatory examination expected in Q4 2026.
 
