@@ -1,8 +1,8 @@
-# Verdant Pay GRC Assessment — Methodology
+# Paraclete GRC Assessment — Methodology
 
 ## Overview
 
-This document walks through the eight-stage methodology behind the Verdant Pay cyber risk assessment. Each stage was designed to build directly on the one before it, moving from defining what we were assessing all the way through to a prioritised action plan for reducing risk. Nothing in the final risk register was assumed or invented. Every finding traces back to evidence gathered during the assessment.
+This document walks through the eight-stage methodology behind the Paraclete cyber risk assessment. Each stage was designed to build directly on the one before it, moving from defining what we were assessing all the way through to a prioritised action plan for reducing risk. Nothing in the final risk register was assumed or invented. Every finding traces back to evidence gathered during the assessment.
 
 ---
 
@@ -38,13 +38,13 @@ This was the most intensive stage of the assessment, conducted in four parts.
 
 ## Stage 4: Threat and Vulnerability Identification
 
-With the control environment mapped, the next question was: given these gaps, what could actually go wrong? Nineteen risks were identified across the four scope areas, each with a specific threat, a specific vulnerability, a named asset at risk, and a realistic potential harm statement tied directly to Verdant Pay's regulatory and business context.
+With the control environment mapped, the next question was: given these gaps, what could actually go wrong? Nineteen risks were identified across the four scope areas, each with a specific threat, a specific vulnerability, a named asset at risk, and a realistic potential harm statement tied directly to Paraclete's regulatory and business context.
 
 ---
 
 ## Stage 5: Inherent Risk Assessment
 
-Each of the nineteen risks was rated for likelihood and impact on a scale of one to five, producing an inherent risk score that reflects the raw danger of each risk before any controls are considered. All nineteen risks rated as critical at this stage, a finding that reflects both the severity of the identified control gaps and the high-stakes regulatory environment Verdant Pay operates in.
+Each of the nineteen risks was rated for likelihood and impact on a scale of one to five, producing an inherent risk score that reflects the raw danger of each risk before any controls are considered. All nineteen risks rated as critical at this stage, a finding that reflects both the severity of the identified control gaps and the high-stakes regulatory environment Paraclete operates in.
 
 ---
 
@@ -64,7 +64,7 @@ Residual risk is what remains after existing controls are applied. By adjusting 
 
 The final stage turned findings into action. Each of the nineteen risks received a single accountable owner assigned using RACI principles, a three-layer treatment plan covering immediate actions within 30 days, short term actions within 90 days, and medium term actions within 180 days, a target risk score showing what the risk level should become after full treatment, and a priority ranking based on residual score, regulatory deadline, and whether fixing the risk would reduce other risks simultaneously.
 
-Full implementation of all treatment plans would reduce Verdant Pay's risk profile from nineteen critical risks to zero critical risks.
+Full implementation of all treatment plans would reduce Paraclete's risk profile from nineteen critical risks to zero critical risks.
 
 ---
 
