@@ -1,4 +1,4 @@
-# Paraclete Limited
+# Paraclete
 ## Engagement Brief
 **Confidential | Internal Use Only**
 
