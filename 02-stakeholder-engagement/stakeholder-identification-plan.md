@@ -1,11 +1,11 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stakeholder Identification and Engagement Plan
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This document identifies the key stakeholders relevant to the cyber 
-risk assessment at Verdant Pay Limited and outlines the specific 
+risk assessment at Paraclete Limited and outlines the specific 
 information required from each. The stakeholder engagement process 
 is structured around the four defined scope areas: identity and access 
 management, customer data handling, cybersecurity awareness and human 
@@ -95,7 +95,7 @@ guidelines as they relate to staff access.
 **Primary scope area:** Customer Data Handling.
 
 **What they uniquely know:** The regulatory and policy obligations 
-governing how Verdant Pay handles customer personal data under NDPA 
+governing how Paraclete handles customer personal data under NDPA 
 2023. They understand what the organization is legally required to do 
 with customer data including consent mechanisms, data subject rights, 
 breach notification obligations, and data classification requirements.
