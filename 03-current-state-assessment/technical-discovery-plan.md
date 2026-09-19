@@ -1,4 +1,4 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 3, Part 3: Technical Discovery Plan
 **Confidential | Internal Use Only**
 
@@ -7,13 +7,11 @@
 Technical discovery is the verification layer of the assessment. 
 Its purpose is to confirm or contradict what stakeholders said and 
 what documentation claims, by examining what is actually configured 
-and operating in Verdant Pay's technical environment. Every technical 
+and operating in Paraclete's technical environment. Every technical 
 check in this plan traces back to a specific interview finding, 
 documentation gap, or flagged incident. Nothing is checked randomly.
 
-## The Golden Rule of Technical Discovery
-
-Every finding must have three components to be defensible:
+## Every finding must have three components to be defensible:
 
 - **What was checked:** The specific system, report, or log reviewed
 - **What was found:** The specific evidence or variance identified
@@ -25,7 +23,7 @@ observation. Observations do not belong in a risk register. Findings do.
 
 ## Note on Scope
 
-Verdant Pay is a cloud-native organization. Physical infrastructure 
+Paraclete is a cloud-native organization. Physical infrastructure 
 and on-premises hardware are explicitly out of scope. Technical 
 discovery is therefore entirely cloud-focused, covering configurations, 
 permissions, logs, and settings within Azure and M365.
