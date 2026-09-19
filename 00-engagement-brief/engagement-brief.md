@@ -4,7 +4,7 @@
 
 ## Client Overview
 
-Paraclete Limited is a Lagos-based fintech company operating a cloud-native digital payments platform that enables peer-to-peer transfers, bill payments, and merchant collections across Nigeria. Founded in 2019, the company has grown to approximately 120 staff across product, engineering, operations, compliance, and customer support functions. Its customer base stands at roughly 340,000 active users, with transaction volumes averaging NGN 2.1 billion monthly.
+Paraclete is a Lagos-based fintech company operating a cloud-native digital payments platform that enables peer-to-peer transfers, bill payments, and merchant collections across Nigeria. Founded in 2019, the company has grown to approximately 120 staff across product, engineering, operations, compliance, and customer support functions. Its customer base stands at roughly 340,000 active users, with transaction volumes averaging NGN 2.1 billion monthly.
 
 Paraclete operates entirely on cloud infrastructure, primarily Microsoft Azure for core workloads and Microsoft 365 for internal collaboration, communication, and document management. It holds a Payment Service Solution Provider (PSSP) licence issued by the Central Bank of Nigeria (CBN) and is therefore subject to the CBN Cybersecurity Framework for Payment Service Providers, the Nigeria Data Protection Act 2023 (NDPA), and PCI-DSS requirements relevant to card transaction handling.
 
