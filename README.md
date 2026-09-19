@@ -1,4 +1,4 @@
-# Verdant Pay Limited — Cyber Risk Assessment
+# Paraclete — Cyber Risk Assessment
 
 An end-to-end cyber risk assessment designed for a fictional Lagos-based fintech, covering everything from scope 
 definition through to a prioritized risk register with treatment plans under Nigerian regulatory conditions.
@@ -7,14 +7,14 @@ definition through to a prioritized risk register with treatment plans under Nig
 
 ## The Organization
 
-Verdant Pay Limited is a fictional cloud-native fintech operating a 
+Paraclete is a fictional cloud-native fintech operating a 
 digital payments platform for peer-to-peer transfers, bill payments, 
 and merchant collections across Nigeria. It holds a Payment Service 
 Solution Provider licence issued by the Central Bank of Nigeria and 
 serves approximately 340,000 active users processing NGN 2.1 billion 
 in monthly transactions.
 
-In Q1 2026, Verdant Pay's compliance team flagged three concerns 
+In Q1 2026, Paraclete's compliance team flagged three concerns 
 during a routine internal review:
 
 - Former staff accounts remained active in the M365 environment 
@@ -32,7 +32,7 @@ examination expected in Q4 2026.
 
 ## What Was Assessed
 
-Four scope areas across Verdant Pay's cloud environment:
+Four scope areas across Paraclete's cloud environment:
 
 - Identity and Access Management
 - Customer Data Handling
@@ -95,7 +95,7 @@ reflecting the minimal protective value of a control environment
 where no control reached high or moderate effectiveness.
 
 Full implementation of all nineteen treatment plans would reduce 
-Verdant Pay's risk profile from nineteen critical risks to an 
+Paraclete's risk profile from nineteen critical risks to an 
 acceptable level.
 
 ---
