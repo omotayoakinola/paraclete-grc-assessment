@@ -7,12 +7,8 @@ definition through to a prioritized risk register with treatment plans under Nig
 
 ## The Organization
 
-Paraclete is a fictional cloud-native fintech operating a 
-digital payments platform for peer-to-peer transfers, bill payments, 
-and merchant collections across Nigeria. It holds a Payment Service 
-Solution Provider licence issued by the Central Bank of Nigeria and 
-serves approximately 340,000 active users processing NGN 2.1 billion 
-in monthly transactions.
+Paraclete is a fictional cloud-native fintech operating a digital payments platform for peer-to-peer transfers, bill payments, 
+and merchant collections across Nigeria. For the purposes of this simulated assessment, Paraclete is assumed to operate under a CBN-regulated payment-services model and serves approximately 340,000 active users processing NGN 2.1 billion in monthly transactions.
 
 In Q1 2026, Paraclete's compliance team flagged three concerns 
 during a routine internal review:
