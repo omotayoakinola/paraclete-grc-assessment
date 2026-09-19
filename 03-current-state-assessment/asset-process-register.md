@@ -1,11 +1,11 @@
-# Verdant Pay Limited
+#  Paraclete
 ## Asset and Process Register
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This register documents the key assets and processes identified during 
-Stage 3 of the Verdant Pay cyber risk assessment. It establishes a 
+Stage 3 of the Paraclete cyber risk assessment. It establishes a 
 clear inventory of what is being protected, who owns it, and why it 
 is relevant to the four defined scope areas. Every asset and process 
 listed here was identified through stakeholder engagement, documentation 
@@ -32,7 +32,7 @@ Scope relevance: Identity and Access Management. These accounts carry
 elevated access rights that create heightened risk if compromised, 
 misconfigured, or left active after a staff exit. Directly connects 
 to the CISO's interview finding that no formal privileged access 
-management process exists at Verdant Pay.
+management process exists at Paraclete.
 
 **Access Rights and Permission Assignments**
 Owner: Cloud Administrator.
@@ -48,7 +48,7 @@ permissions expanded beyond originally intended boundaries.
 
 **Customer Personal and Financial Data**
 Owner: Data Protection Officer.
-Scope relevance: Customer Data Handling. This is Verdant Pay's highest 
+Scope relevance: Customer Data Handling. This is Paraclete's highest 
 sensitivity data asset, subject to NDPA 2023, CBN Cybersecurity 
 Framework, and PCI-DSS protection requirements. Directly connects to 
 the absence of a formal data classification policy identified in Q1 2026 
@@ -74,7 +74,7 @@ OneDrive tracker outside officially sanctioned systems.
 **Compliance Documentation**
 Owner: Chief Compliance Officer.
 Scope relevance: Governance and Policy Posture. The evidentiary 
-foundation of Verdant Pay's regulatory standing. Directly connects 
+foundation of Paraclete's regulatory standing. Directly connects 
 to the interview finding that two of three open CBN examination 
 findings have exceeded their remediation deadlines.
 
@@ -84,7 +84,7 @@ findings have exceeded their remediation deadlines.
 
 **Microsoft 365 Environment**
 Owner: Head of IT Infrastructure and Cloud Administrator.
-Scope relevance: All four scope areas. Verdant Pay's primary internal 
+Scope relevance: All four scope areas. Paraclete's primary internal 
 collaboration and communication platform and the central system through 
 which most in-scope risks have been identified. Primary technical 
 discovery environment for this assessment.
@@ -92,7 +92,7 @@ discovery environment for this assessment.
 **Microsoft Azure Cloud Infrastructure**
 Owner: Cloud Administrator.
 Scope relevance: Identity and Access Management, Customer Data Handling. 
-The underlying cloud platform supporting Verdant Pay's payment processing 
+The underlying cloud platform supporting Paraclete's payment processing 
 operations and data storage. Connects to the technical discovery 
 requirement to verify encryption settings and storage configurations 
 for customer financial data.
@@ -123,7 +123,7 @@ remediation.
 jointly.
 **Scope area:** Identity and Access Management.
 **Relevance:** Governs how staff access is provisioned when someone 
-joins Verdant Pay and deprovisioned when someone leaves. Directly 
+joins Paraclete and deprovisioned when someone leaves. Directly 
 connects to the Q1 2026 flagged incident of former staff accounts 
 remaining active after offboarding and to interview findings confirming 
 that the notification process between People Operations and IT is 
@@ -148,8 +148,7 @@ Operations Manager interview.
 **Owner:** Data Protection Officer.
 **Scope area:** Customer Data Handling.
 **Relevance:** Governs how customer personal and financial data is 
-classified, stored, accessed, shared, and protected across Verdant 
-Pay's cloud environment. Directly connects to the absence of an 
+classified, stored, accessed, shared, and protected across Paraclete's cloud environment. Directly connects to the absence of an 
 approved data classification policy identified in Q1 2026 and the 
 DPO's interview finding that a draft classification framework has 
 awaited formal approval for six months.
@@ -159,7 +158,7 @@ awaited formal approval for six months.
 ### Process 4: Policy Review and Approval Cycle
 **Owner:** Chief Compliance Officer.
 **Scope area:** Governance and Policy Posture.
-**Relevance:** Governs how Verdant Pay's key policies are drafted, 
+**Relevance:** Governs how Paraclete's key policies are drafted, 
 reviewed, approved, communicated to staff, and kept current against 
 evolving regulatory requirements. Directly connects to the 
 organization's regulatory standing with CBN and to the examination 
