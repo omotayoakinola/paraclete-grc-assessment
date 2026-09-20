@@ -1,4 +1,4 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 5: Inherent Risk Assessment
 **Confidential | Internal Use Only**
 
@@ -87,7 +87,7 @@ this time.
 
 **Impact:** 5 — Severe
 **Justification:** A successful authentication bypass would grant an 
-external attacker persistent unauthorized access to Verdant Pay's M365 
+external attacker persistent unauthorized access to Paraclete's M365 
 environment, enabling customer financial data access, compliance record 
 manipulation, PCI-DSS non-compliance, adverse CBN examination findings, 
 and significant reputational and financial consequences ahead of the 
@@ -112,7 +112,7 @@ insider to access Azure cloud infrastructure, M365 administrator
 accounts, and customer financial data beyond their legitimate scope, 
 resulting in significant data breach, regulatory sanction under NDPA 
 2023 and CBN Cybersecurity Framework, and potential licence 
-implications for Verdant Pay as a PSSP.
+implications for Paraclete as a PSSP.
 
 **Inherent Risk Score:** 20
 **Risk Level:** Critical
@@ -124,7 +124,7 @@ implications for Verdant Pay as a PSSP.
 **Justification:** Confirmed by Cloud Administrator interview. The last 
 formal access review was conducted eight months ago against a quarterly 
 requirement and was neither formally documented nor signed off. 
-Permission creep is therefore already occurring at Verdant Pay as 
+Permission creep is therefore already occurring at Paraclete as 
 permissions accumulate without review or correction.
 
 **Impact:** 4 — Major
@@ -146,7 +146,7 @@ the appropriate impact rating.
 **Justification:** Confirmed by DPO interview. No approved data 
 classification policy exists in operational form. Staff are confirmed 
 as treating all data the same regardless of sensitivity. This condition 
-is currently occurring at Verdant Pay and affects every interaction 
+is currently occurring at Paraclete and affects every interaction 
 with customer financial data daily.
 
 **Impact:** 5 — Severe
@@ -175,7 +175,7 @@ a future risk, it is a current confirmed condition.
 through unapproved channels outside IT visibility creates direct NDPA 
 2023 exposure, significant likelihood of unauthorized data access or 
 accidental disclosure, and permanent data loss risk through unprotected 
-personal devices that Verdant Pay cannot monitor, recover, or audit.
+personal devices that Paraclete cannot monitor, recover, or audit.
 
 **Inherent Risk Score:** 25
 **Risk Level:** Critical
@@ -188,7 +188,7 @@ personal devices that Verdant Pay cannot monitor, recover, or audit.
 2026 compliance review. SharePoint permissions have already expanded 
 beyond originally intended boundaries without detection and the last 
 formal permission review was eight months ago. This condition is 
-currently confirmed as existing at Verdant Pay.
+currently confirmed as existing at Paraclete.
 
 **Impact:** 5 — Severe
 **Justification:** Expanded and unverified permissions enable both 
@@ -208,7 +208,7 @@ examination.
 **Justification:** No documented encryption standard exists within 
 the absent data classification policy. However active exploitation of 
 inadequate encryption through data interception or ransomware targeting 
-Verdant Pay's Azure environment specifically has not been confirmed. 
+Paraclete's Azure environment specifically has not been confirmed. 
 The likelihood is possible rather than likely because exploitation 
 requires deliberate external targeting of a specific technical weakness 
 not yet technically verified.
@@ -263,7 +263,7 @@ exploitation likely, though no confirmed incident has been reported.
 **Justification:** A successful phishing attack could result in 
 credential compromise, unauthorized system access, fraudulent 
 transactions, and customer data breaches, with severe regulatory, 
-financial, and reputational consequences for Verdant Pay given its 
+financial, and reputational consequences for Paraclete given its 
 transaction volumes and regulatory obligations.
 
 **Inherent Risk Score:** 20
@@ -275,13 +275,13 @@ transaction volumes and regulatory obligations.
 **Likelihood:** 5 — Almost Certain
 **Justification:** Confirmed by HR interview. No formal knowledge 
 assessment exists at the end of training. This condition is currently 
-confirmed as existing at Verdant Pay, meaning security behavior across 
+confirmed as existing at Paraclete, meaning security behavior across 
 all staff is unverified right now.
 
 **Impact:** 3 — Moderate
 **Justification:** The absence of knowledge assessment is primarily a 
 governance and compliance gap rather than a direct operational threat. 
-Its impact is moderate because it weakens Verdant Pay's ability to 
+Its impact is moderate because it weakens Paraclete's ability to 
 demonstrate training effectiveness to a CBN examiner but does not 
 directly cause a data breach or financial loss on its own.
 
@@ -294,7 +294,7 @@ directly cause a data breach or financial loss on its own.
 **Likelihood:** 4 — Likely
 **Justification:** No phishing simulation program exists, confirmed 
 across all seven stakeholder interviews. Staff susceptibility has never 
-been tested or measured. Given Verdant Pay's transaction volumes and 
+been tested or measured. Given Paraclete's transaction volumes and 
 the confirmed absence of knowledge retention assessment, phishing 
 susceptibility is likely across at least a portion of the staff 
 population.
@@ -304,7 +304,7 @@ population.
 processing NGN 2.1 billion monthly creates significant financial fraud 
 risk, potential large scale customer data exposure, and regulatory 
 consequences if a successful phishing attack results in a breach that 
-Verdant Pay cannot demonstrate it took reasonable preventive measures 
+Paraclete cannot demonstrate it took reasonable preventive measures 
 against.
 
 **Inherent Risk Score:** 20
@@ -316,7 +316,7 @@ against.
 **Likelihood:** 5 — Almost Certain
 **Justification:** Confirmed by Senior Product Operations Manager 
 interview. Credential sharing during peak processing periods is an 
-established practice at Verdant Pay. This is not a future risk, it 
+established practice at Paraclete. This is not a future risk, it 
 is a current confirmed condition occurring regularly.
 
 **Impact:** 5 — Severe
@@ -324,7 +324,7 @@ is a current confirmed condition occurring regularly.
 accountability for system access during peak periods. A malicious 
 actor exploiting shared credentials could execute fraudulent 
 transactions, access customer financial data, or manipulate 
-transaction records, with Verdant Pay unable to attribute actions 
+transaction records, with Paraclete unable to attribute actions 
 to a specific individual during any subsequent investigation or 
 regulatory inquiry.
 
@@ -364,8 +364,8 @@ normalised and ongoing without management challenge or correction.
 culture gap that progressively increases the likelihood of data 
 breaches and regulatory violations. The impact is major rather than 
 severe because the harm is cumulative and enabling rather than 
-immediately catastrophic, though it significantly weakens Verdant 
-Pay's compliance posture ahead of the Q4 2026 CBN examination.
+immediately catastrophic, though it significantly weakens Paraclete's 
+compliance posture ahead of the Q4 2026 CBN examination.
 
 **Inherent Risk Score:** 20
 **Risk Level:** Critical
@@ -378,11 +378,11 @@ Pay's compliance posture ahead of the Q4 2026 CBN examination.
 **Likelihood:** 5 — Almost Certain
 **Justification:** Confirmed by CCO interview. Two key policies, data 
 classification and third-party risk management, are either absent or 
-inactive. This condition is currently confirmed as existing at Verdant 
-Pay and directly affects the organization's regulatory standing right now.
+inactive. This condition is currently confirmed as existing at Paraclete
+and directly affects the organization's regulatory standing right now.
 
 **Impact:** 4 — Major
-**Justification:** Outdated or absent policies leave Verdant Pay 
+**Justification:** Outdated or absent policies leave Paraclete 
 operating without adequate governance guardrails, increasing the 
 likelihood of adverse CBN examination findings in Q4 2026. The impact 
 is major rather than severe because the immediate consequence is 
@@ -428,7 +428,7 @@ exploitation has not been confirmed.
 **Justification:** An unassessed vendor introducing a supply chain 
 vulnerability could bypass all internal security controls, resulting 
 in a large scale data breach, NDPA 2023 violation, and CBN examination 
-finding that Verdant Pay cannot defend against because no vendor risk 
+finding that Paraclete cannot defend against because no vendor risk 
 assessment was ever conducted, while simultaneously exposing the 
 organization to liability for customer data processed without a data 
 processing agreement.
@@ -443,7 +443,7 @@ processing agreement.
 **Justification:** Confirmed by DPO interview. The draft data 
 classification framework has sat unapproved for six months with no 
 escalation or resolution. The policy approval process is confirmed 
-as non-functional at Verdant Pay right now.
+as non-functional at Paraclete right now.
 
 **Impact:** 4 — Major
 **Justification:** The absence of a functioning policy approval process 
@@ -468,7 +468,7 @@ on other risks makes this a high priority remediation item.
 | Low (1-4) | 0 | 0% |
 | **Total** | **19** | **100%** |
 
-Every one of Verdant Pay's nineteen identified risks has been rated 
+Every one of Paraclete's nineteen identified risks has been rated 
 as critical at the inherent risk level. This exceptional finding 
 reflects the severity and systemic nature of the control gaps 
 identified across all four scope areas in Stage 3.
@@ -476,7 +476,7 @@ identified across all four scope areas in Stage 3.
 The concentration of critical risks is explained by three factors. 
 First, ten of the nineteen risks carry a likelihood rating of five, 
 meaning the conditions driving those risks are already confirmed as 
-occurring at Verdant Pay right now rather than being future 
+occurring at Paraclete right now rather than being future 
 possibilities. Second, fifteen of the nineteen risks carry an impact 
 rating of five, reflecting the severe regulatory, financial, and 
 reputational consequences that any significant security incident would 
