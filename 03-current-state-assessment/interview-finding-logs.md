@@ -1,11 +1,11 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 3, Part 2: Interview Finding Logs
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This document records the findings from all seven stakeholder interviews 
-conducted during the Verdant Pay cyber risk assessment. Each log 
+conducted during the Paraclete cyber risk assessment. Each log 
 documents what the stakeholder said, what existing documentation states, 
 any variance identified between the two, the risk implication of that 
 variance, and any follow-up documentation requested as a result.
@@ -23,7 +23,7 @@ subsequent stages.
 **Interview Duration:** 50 minutes
 
 ### Finding 1
-**Question asked:** When an employee leaves Verdant Pay, at what point 
+**Question asked:** When an employee leaves Paraclete, at what point 
 do you revoke their privileged access and how quickly does that happen?
 
 **What the stakeholder said:** IT revokes access once a notification 
@@ -342,14 +342,14 @@ state assessment report.
 the organization and who is responsible for enforcing it?
 
 **What the stakeholder said:** There is currently no formal data 
-classification scheme in operation at Verdant Pay. The DPO has been 
+classification scheme in operation at Paraclete. The DPO has been 
 aware of this gap for approximately six months and has drafted a 
 proposed classification framework but it has not been formally approved 
 or communicated to staff. In practice, staff treat all internal data 
 the same way regardless of sensitivity.
 
 **What existing documentation states:** No data classification policy 
-currently exists at Verdant Pay. This was confirmed as one of the three 
+currently exists at Paraclete. This was confirmed as one of the three 
 flagged incidents in the Q1 2026 compliance review.
 
 **Variance identified:** No variance between documentation and practice 
@@ -405,7 +405,7 @@ data classification policy in Q1 2026, what was your assessment of the
 potential regulatory exposure under NDPA 2023?
 
 **What the stakeholder said:** The DPO assessed the regulatory exposure 
-as significant. Under NDPA 2023, Verdant Pay as a data controller is 
+as significant. Under NDPA 2023, Paraclete as a data controller is 
 required to implement appropriate safeguards for personal data 
 proportionate to its sensitivity. Without a classification policy, the 
 organization cannot demonstrate to the Nigeria Data Protection Commission 
@@ -448,7 +448,7 @@ assessment report.
 **Interview Duration:** 60 minutes
 
 ### Finding 1
-**Question asked:** How confident are you personally that Verdant Pay's 
+**Question asked:** How confident are you personally that Paraclete's 
 current policies would satisfy a CBN examiner who walked in tomorrow, 
 and which policy area concerns you most?
 
@@ -472,7 +472,7 @@ governance posture failure.
 
 **Risk implication:** Two of the four key policies required by the 
 governance framework are either absent or inactive. This directly 
-weakens Verdant Pay's ability to demonstrate a functional compliance 
+weakens Paraclete's ability to demonstrate a functional compliance 
 posture to a CBN examiner and creates specific exposure under the CBN 
 Cybersecurity Framework for Payment Service Providers.
 
@@ -522,8 +522,8 @@ what would it be?
 
 **What the stakeholder said:** The CCO identified the third-party risk 
 management gap as the single most urgent priority. Several vendors with 
-access to or adjacency to Verdant Pay's cloud environment have never 
-been formally assessed for security risk. Given that CBN examiners 
+access to or adjacency to Paraclete's cloud environment have never been 
+formally assessed for security risk. Given that CBN examiners 
 increasingly scrutinize third-party risk in fintech environments, and 
 given that one of the open examination findings already flags this area, 
 the CCO considers it the highest likelihood source of an adverse finding 
@@ -545,7 +545,7 @@ institutions to assess and manage third-party risk.
 
 **Follow-up document requested:** Draft Third-Party Risk Management 
 Policy and a list of current vendors with access to or adjacency to 
-Verdant Pay's cloud environment.
+Paraclete's cloud environment.
 
 ### Overall Interview Assessment
 This interview surfaced three findings across the governance and policy 
@@ -599,7 +599,7 @@ identified controls.
 
 ### Finding 2
 **Question asked:** If a CBN examiner walked in tomorrow, which area 
-of your security posture would you be most concerned about?
+of Paraclete's security posture would you be most concerned about?
 
 **What the stakeholder said:** The CISO identified identity and access 
 management as the area of greatest concern, specifically the combination 
@@ -737,7 +737,7 @@ form, also requires vendor security assessments.
 **Variance identified:** Yes. Both tools are in active use without IT 
 approval or security review. The document conversion tool in particular 
 processes uploaded files externally, meaning customer reference data 
-may have been transmitted to a third-party server outside Verdant Pay's 
+may have been transmitted to a third-party server outside Paraclete's 
 control without any security assessment or data processing agreement 
 in place.
 
