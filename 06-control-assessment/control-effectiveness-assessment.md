@@ -337,7 +337,7 @@ or measured.
 
 **Control 3: Phishing Simulation Program**
 Effectiveness: Absent
-Justification: No phishing simulation program exists at Verdant Pay. 
+Justification: No phishing simulation program exists at Paraclete. 
 Staff susceptibility to phishing has never been tested, meaning the 
 organization has no mechanism to identify and remediate vulnerable 
 staff before a real attack occurs.
