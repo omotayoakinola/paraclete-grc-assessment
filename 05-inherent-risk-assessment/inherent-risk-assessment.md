@@ -62,7 +62,7 @@ of raw danger before any mitigating factors are introduced.
 to IT takes three to five business days against a documented 24-hour 
 requirement and no confirmation loop exists to verify deactivation. 
 Former staff accounts are already confirmed as remaining active after 
-exit. This condition is currently occurring at Verdant Pay.
+exit. This condition is currently occurring at Paraclete.
 
 **Impact:** 5 — Severe
 **Justification:** Unauthorized access by a former staff member could 
