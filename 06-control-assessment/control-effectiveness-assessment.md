@@ -1,11 +1,11 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 6: Existing Control Assessment
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This document assesses the effectiveness of existing controls at 
-Verdant Pay against each of the nineteen identified risks. While 
+Paraclete against each of the nineteen identified risks. While 
 Stage 3 Part 4 assessed the general maturity of each control across 
 scope areas, Stage 6 asks a more specific question: for each 
 identified risk, how much protection do existing controls actually 
@@ -98,7 +98,7 @@ controls are absent or ineffective against this specific risk.
 **Control 1: Privileged Access Management**
 Effectiveness: Absent
 Justification: No formal privileged access management process exists 
-at Verdant Pay. There is no inventory, review, or governance of 
+at Paraclete. There is no inventory, review, or governance of 
 privileged accounts, meaning no control exists to detect or prevent 
 privilege escalation.
 
@@ -270,7 +270,7 @@ across all storage services.
 Effectiveness: Absent
 Justification: Without data classification defining what data requires 
 what level of encryption protection, encryption controls cannot be 
-systematically applied or verified across Verdant Pay's cloud 
+systematically applied or verified across Paraclete's cloud 
 environment.
 
 **Control 3: Access Restriction to Customer Data**
@@ -293,7 +293,7 @@ is absent.
 **Control 1: Breach Notification Procedure**
 Effectiveness: Absent
 Justification: No operational breach notification procedure exists 
-at Verdant Pay. The organization cannot currently determine what 
+at Paraclete. The organization cannot currently determine what 
 constitutes a notifiable breach, who should be notified, or within 
 what timeframe.
 
@@ -380,7 +380,7 @@ compensate for the absence of knowledge verification.
 
 **Control 1: Phishing Simulation Program**
 Effectiveness: Absent
-Justification: No phishing simulation program exists at Verdant Pay. 
+Justification: No phishing simulation program exists at Paraclete. 
 This is the primary control needed to detect and measure staff phishing 
 susceptibility and it is completely absent.
 
@@ -621,7 +621,7 @@ failure arising from a non-functional policy approval process.
 | Ineffective to Absent | 9 | 47% |
 | **Total** | **19** | **100%** |
 
-No risk across any of Verdant Pay's four scope areas has controls 
+No risk across any of Paraclete's four scope areas has controls 
 rated as high or moderate effectiveness. Ten risks have controls rated 
 as low effectiveness, meaning existing controls provide only minimal 
 protection. Nine risks have controls rated as ineffective to absent, 
