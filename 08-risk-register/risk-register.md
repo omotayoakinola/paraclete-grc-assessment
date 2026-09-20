@@ -1,4 +1,4 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 8: Risk Register with Treatment Plans and Recommendations
 **Confidential | Internal Use Only**
 
@@ -9,7 +9,7 @@ into a single actionable governance document. For each of the nineteen
 identified risks it presents the risk description, inherent risk rating, 
 existing controls and their effectiveness, residual risk rating, risk 
 owner, treatment plan, and target residual risk after treatment. This 
-document is the primary governance artifact supporting Verdant Pay's 
+document is the primary governance artifact supporting Paraclete's 
 remediation planning ahead of the Q4 2026 CBN examination and the 
 planned Series B fundraising round.
 
@@ -27,17 +27,22 @@ planned Series B fundraising round.
 
 ## Note on Risk Ownership
 
-Risk ownership in this register follows RACI principles. 
+Risk ownership in this register follows RACI principles. One person 
+is Accountable, meaning ultimately answerable to the board if the risk 
+materializes. Others may be Responsible for executing specific treatment 
+actions within their function. The question used to determine the 
+Accountable owner for each risk was: who would the board hold ultimately 
+answerable if this risk materialized?
 
 ## Note on Residual Risk and Risk Appetite
 
-The residual risk scores presented in this register reflect Verdant 
-Pay's current risk exposure with existing controls in place. They are 
-presented to establish the baseline from which remediation 
+The residual risk scores presented in this register reflect Paraclete's 
+current risk exposure with existing controls in place. They are 
+presented honestly to establish the baseline from which remediation 
 must start and are not presented as an acceptable risk position. The 
 target residual risk after treatment represents the intended risk 
 position after all treatment plans are fully implemented. This is the 
-level against which Verdant Pay's risk appetite should be measured. 
+level against which Paraclete's risk appetite should be measured. 
 No risk in this register will be considered within acceptable 
 boundaries until it reaches its defined target level.
 
@@ -291,7 +296,7 @@ Medium term within 180 days: Conduct a full data inventory audit
 across all systems confirming that all customer financial data has been 
 classified, labeled, and protected proportionate to its sensitivity. 
 Establish an annual data classification review process to ensure the 
-framework remains current as Verdant Pay's data environment evolves.
+framework remains current as Paraclete's data environment evolves.
 
 **Target Residual Risk After Treatment:** Likelihood 2, Impact 4, 
 Score 8, Level Medium
@@ -444,7 +449,7 @@ data storage services.
 
 Medium term within 180 days: Conduct annual encryption audits to 
 verify that encryption standards are being consistently applied across 
-all storage services as Verdant Pay's cloud environment evolves. 
+all storage services as Paraclete's cloud environment evolves. 
 Implement automated policy enforcement through Azure Policy to prevent 
 the creation of unencrypted storage resources holding customer data.
 
@@ -468,7 +473,7 @@ from critical to high at the residual level, alongside Risks 11 and 14.
 **Vulnerability:** No operational breach notification procedure exists. 
 Organization cannot determine what constitutes a notifiable breach or 
 meet NDPA 2023 72-hour notification requirement.
-**Asset at Risk:** Verdant Pay's regulatory standing, PSSP licence, 
+**Asset at Risk:** Paraclete's regulatory standing, PSSP licence, 
 and customer trust.
 **Inherent Risk:** Likelihood 4, Impact 5, Score 20, Level Critical
 **Existing Controls:** Breach notification procedure, Absent. Data 
@@ -572,7 +577,7 @@ training without retaining knowledge.
 **Vulnerability:** No formal assessment exists at end of training. 
 Organization cannot verify whether training produced behavioral change.
 **Asset at Risk:** Customer financial data, M365 environment, and 
-Verdant Pay's compliance posture.
+Paraclete's compliance posture.
 **Inherent Risk:** Likelihood 5, Impact 3, Score 15, Level Critical
 **Existing Controls:** Formal knowledge assessment, Absent. 
 Cybersecurity awareness training program, Low effectiveness.
@@ -820,7 +825,7 @@ responsibility to a management performance metric.
 **Threat:** Regulatory risk, organisational human error.
 **Vulnerability:** Two key policies absent or inactive. Policy review 
 cycle not operating on schedule.
-**Asset at Risk:** Verdant Pay's regulatory standing, PSSP licence, 
+**Asset at Risk:** Paraclete's regulatory standing, PSSP licence, 
 governance posture.
 **Inherent Risk:** Likelihood 5, Impact 4, Score 20, Level Critical
 **Existing Controls:** Policy review and management control, Low 
@@ -872,7 +877,7 @@ and review process becomes systematic and tracked.
 exceeding remediation deadlines.
 **Vulnerability:** Two of three open CBN findings have exceeded target 
 remediation deadlines. Remediation tracker not driving timely action.
-**Asset at Risk:** Verdant Pay's regulatory standing, PSSP licence, 
+**Asset at Risk:** Paraclete's regulatory standing, PSSP licence, 
 CBN relationship.
 **Inherent Risk:** Likelihood 5, Impact 4, Score 20, Level Critical
 **Existing Controls:** Remediation tracking control, Low effectiveness. 
@@ -940,7 +945,7 @@ Immediate within 30 days: Immediately block the unapproved external
 document conversion tool identified during the Senior Product Operations 
 Manager interview and provide staff with an approved internal 
 alternative. Produce a full inventory of all third party vendors and 
-tools currently in use across Verdant Pay including those not formally 
+tools currently in use across Paraclete including those not formally 
 approved by IT. Fast-track board approval of the Third Party Risk 
 Management Policy currently in draft form.
 
@@ -949,14 +954,14 @@ of all vendors identified in the inventory using a standardized vendor
 risk assessment questionnaire covering security controls, data handling 
 practices, regulatory compliance, and incident response capability. 
 Establish data processing agreements with all vendors confirmed as 
-processing Verdant Pay customer personal data, as required under NDPA 
+processing Paraclete customer personal data, as required under NDPA 
 2023. Implement a formal vendor onboarding process requiring IT security 
 approval and risk assessment before any new vendor is engaged.
 
 Medium term within 180 days: Establish an annual vendor risk review 
 process reassessing all active vendors against current security 
 standards. Implement a vendor security monitoring program for high-risk 
-vendors with access to or adjacency to Verdant Pay's cloud environment. 
+vendors with access to or adjacency to Paraclete's cloud environment. 
 Include third party risk management as a standing agenda item in 
 quarterly board risk reporting.
 
@@ -979,7 +984,7 @@ non-functional policy governance.
 **Vulnerability:** No formal policy approval timeline or escalation 
 process exists. DPO's draft data classification framework has sat 
 unapproved for six months.
-**Asset at Risk:** Verdant Pay's governance posture, regulatory 
+**Asset at Risk:** Paraclete's governance posture, regulatory 
 standing, operational security controls dependent on approved policies.
 **Inherent Risk:** Likelihood 5, Impact 4, Score 20, Level Critical
 **Existing Controls:** Policy approval governance control, Absent. 
@@ -1067,7 +1072,7 @@ remediation activity.
   Residual score 25.
 
 ### Priority 2: Critical Risks With Regulatory Examination Implications
-These risks directly affect Verdant Pay's CBN examination readiness 
+These risks directly affect Paraclete's CBN examination readiness 
 and must be substantially remediated before Q4 2026.
 
 - Risk 1: Unauthorised Access by Former Staff
@@ -1101,11 +1106,11 @@ management through the treatment plans defined above.
 | Critical | 0 | 0% |
 | **Total** | **19** | **100%** |
 
-Full implementation of all treatment plans would reduce Verdant Pay's 
+Full implementation of all treatment plans would reduce Paraclete's 
 risk profile from nineteen critical risks to an acceptable level, with 
 thirteen risks at medium level, four at low level, and two remaining 
 at high level. This target profile represents the intended residual 
-risk position against which Verdant Pay's risk appetite should be 
+risk position against which Paraclete's risk appetite should be 
 measured. It reflects a defensible security posture appropriate for 
 a regulated PSSP operating under CBN oversight, NDPA 2023 obligations, 
 and PCI-DSS requirements.
@@ -1115,14 +1120,13 @@ and PCI-DSS requirements.
 ## Conclusion
 
 This risk register represents a complete, evidence-based assessment 
-of Verdant Pay Limited's cyber risk posture across four defined scope 
-areas. Every risk has been identified from confirmed control gaps, 
-rated using a consistent likelihood and impact methodology, assessed 
-against existing control effectiveness, and assigned a specific, 
-actionable treatment plan with defined owners, timelines, and target 
-risk levels.
+of Paraclete's cyber risk posture across four defined scope areas. 
+Every risk has been identified from confirmed control gaps, rated using 
+a consistent likelihood and impact methodology, assessed against 
+existing control effectiveness, and assigned a specific, actionable 
+treatment plan with defined owners, timelines, and target risk levels.
 
-The consistent finding across all nineteen risks is that Verdant Pay's 
+The consistent finding across all nineteen risks is that Paraclete's 
 current security posture reflects an organization that has grown rapidly 
 without proportionate investment in security governance, policy 
 development, and control implementation. The remediation roadmap 
