@@ -1,11 +1,11 @@
-# Verdant Pay Limited
+# Paraclete
 ## Stage 7: Residual Risk Assessment
 **Confidential | Internal Use Only**
 
 ## Purpose
 
 This document calculates the residual risk for each of the nineteen 
-identified risks at Verdant Pay after accounting for the protective 
+identified risks at Paraclete after accounting for the protective 
 value of existing controls assessed in Stage 6. Residual risk 
 represents the danger that remains after existing controls are applied. 
 It is calculated by adjusting the inherent risk score from Stage 5 
@@ -28,7 +28,7 @@ a decimal, the score is rounded to the nearest whole number
 for risk level classification.
 
 **Note on reduction percentages:** The reduction percentages 
-applied in this assessment represent Verdant Pay's defined 
+applied in this assessment represent Paraclete's defined 
 risk reduction assumptions for translating overall control 
 effectiveness into residual risk scores. They are not 
 presented as universally established facts but as the 
@@ -84,7 +84,7 @@ status of the primary protective control.
 **Residual Risk Score:** 20
 **Residual Risk Level:** Critical
 **Justification:** No meaningful controls exist to address privilege 
-escalation at Verdant Pay. Privileged access management is completely 
+escalation at Paraclete. Privileged access management is completely 
 absent and remaining controls are ineffective against this specific 
 risk. The residual risk equals the inherent risk reflecting zero 
 protective value from existing controls.
@@ -371,12 +371,12 @@ residual risk because their controls were rated as Ineffective,
 reflecting the complete absence of meaningful protective controls 
 against those specific risks.
 
-This residual risk profile reflects Verdant Pay's current risk 
+This residual risk profile reflects Paraclete's current risk 
 exposure before remediation. It is presented honestly to establish 
 the baseline from which remediation must start and is not presented 
 as an acceptable risk position. The target residual risk after full 
 implementation of all treatment plans in Stage 8 represents the 
-intended risk position against which Verdant Pay's risk appetite 
+intended risk position against which Paraclete's risk appetite 
 should be measured. No risk in this register will be considered within 
 acceptable boundaries until it reaches its target level defined in 
 Stage 8.
